@@ -1,0 +1,18 @@
+# Sorties de compilation
+build/
+*.apk
+*.apk.idsig
+*.aab
+*.dex
+*.class
+
+# Clés de signature (ne jamais versionner)
+*.keystore
+*.jks
+
+# Éditeurs et système
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
