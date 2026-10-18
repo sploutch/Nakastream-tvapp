@@ -24,12 +24,7 @@ Le script compile sans Gradle (aapt2, javac, d8, zipalign, apksigner). Au premie
 
 ## Installer sur la TV
 
-Copie l'APK sur une clé USB et ouvre-le avec un gestionnaire de fichiers, ou passe par adb :
-
-```powershell
-adb connect <ip-de-la-tv>
-adb install -r Nakastream-TV.apk
-```
+Via l'application Downloader, utilisez le code : 7096031
 
 ## Structure
 
